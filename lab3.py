@@ -29,7 +29,7 @@ while (Options != 4):
         print("Product Inserted successfully")
 
       else:
-        print("Inventory is full")
+        print("Cart is full")
       v = v + 1
 #
   elif Options == 2:
