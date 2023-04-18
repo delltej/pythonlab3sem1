@@ -62,7 +62,7 @@ while (Options != 4):
 
   else:
     print("no option found")
-## Print the final contents of the shopping cart
+# Print the final contents of the shopping cart
 print(shoppingCart)
 
 
