@@ -1,3 +1,6 @@
+#Tejveer singh
+#22071721
+
 #  empty dictionary to store the products and their brands
 shoppingCart = {}
 # Display the menu
